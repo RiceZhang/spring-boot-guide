@@ -15,6 +15,12 @@
     <name>spring-boot-parent</name>
     <url>http://maven.apache.org</url>
 
+    <!-- multiple Module -->
+    <modules>
+        <module>../spring-boot-hello1</module>
+        <module>../spring-boot-hello2</module>
+    </modules>
+
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -99,8 +105,4 @@
         </plugins>
     </build>
 
-    <!-- multiple Module -->
-    <modules>
-        <module>../spring-boot-hello1</module>
-    </modules>
 </project>
