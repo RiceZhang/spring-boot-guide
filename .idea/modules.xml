@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello.iml" filepath="$PROJECT_DIR$/spring-boot-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello1/spring-boot-hello1.iml" filepath="$PROJECT_DIR$/spring-boot-hello1/spring-boot-hello1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello2/spring-boot-hello1 (1).iml" filepath="$PROJECT_DIR$/spring-boot-hello2/spring-boot-hello1 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-parent.iml" filepath="$PROJECT_DIR$/spring-boot-parent/spring-boot-parent.iml" />
+    </modules>
+  </component>
+</project>

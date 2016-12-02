@@ -1,0 +1,14 @@
+{
+  "name": "spring-boot-hello1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "makeDoc": "apidoc -i src/ -o apidoc/"
+  },
+  "author": "rixiong",
+  "license": "ISC",
+  "devDependencies": {
+    "apidoc": "^0.16.1"
+  }
+}
