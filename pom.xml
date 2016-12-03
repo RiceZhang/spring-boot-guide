@@ -13,6 +13,19 @@
          <module>spring-boot-parent</module>
          <module>spring-boot-hello1</module>
          <module>spring-boot-hello2</module>
+         <module>spring-boot-chapter2</module>
+         <module>spring-boot-chapter3</module>
+         <module>spring-boot-chapter4</module>
+         <module>spring-boot-chapter4-1</module>
+         <module>spring-boot-chapter4-2</module>
+         <module>spring-boot-chapter4-3</module>
+         <module>spring-boot-chapter4-4</module>
+         <module>spring-boot-chapter4-5</module>
+         <module>spring-boot-chapter4-6</module>
+         <module>spring-boot-chapter4-7</module>
+         <module>spring-boot-chapter4-8</module>
+        <module>spring-boot-chapter5-1</module>
+        <module>spring-boot-chapter5-2</module>
     </modules>
 
 
