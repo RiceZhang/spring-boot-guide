@@ -24,8 +24,9 @@
          <module>spring-boot-chapter4-6</module>
          <module>spring-boot-chapter4-7</module>
          <module>spring-boot-chapter4-8</module>
-        <module>spring-boot-chapter5-1</module>
-        <module>spring-boot-chapter5-2</module>
+         <module>spring-boot-chapter5-1</module>
+         <module>spring-boot-chapter5-2</module>
+         <module>spring-boot-chapter5-3</module>
     </modules>
 
 
