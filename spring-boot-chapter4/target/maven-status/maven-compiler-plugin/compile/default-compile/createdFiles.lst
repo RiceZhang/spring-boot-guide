@@ -1,5 +1,0 @@
-org\github\guide\Application.class
-org\github\guide\domain\User.class
-org\github\guide\Swagger2.class
-org\github\guide\web\HelloController.class
-org\github\guide\web\UserController.class
