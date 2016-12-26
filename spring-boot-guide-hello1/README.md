@@ -11,8 +11,6 @@
 # 采用非直接继承的方式，一般用来解决旧项目的问题
 参考： http://www.cnblogs.com/larryzeal/p/5799195.html
 
-
-
 # 课外知识
 - apidDoc : 本例子采用了apiDoc, 一个基于nodeJs 的 自动构建RESTful API 的工具，生成漂亮的API接口
 - Maven 的 mvnw, 在没有安装Maven的情况下，也可以使用Maven 下载东东，只要执行命令 ./mvnw clean install
