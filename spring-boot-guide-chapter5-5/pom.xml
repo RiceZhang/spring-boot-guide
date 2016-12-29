@@ -12,7 +12,7 @@
     <artifactId>spring-boot-guide-chapter5-5</artifactId>
     <version>1.1</version>
     <packaging>jar</packaging>
-    <name>spring-boot-guide-chapter5-5</name>
+    <name>spring-boot-chapter5-5</name>
     <url>http://maven.apache.org</url>
     <description>第五课 5节 springboot 事务控制  基于jpa </description>
 
